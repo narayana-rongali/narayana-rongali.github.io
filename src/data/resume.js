@@ -7,7 +7,7 @@ export const profile = {
   email: 'rongalisssnarayana@gmail.com',
   linkedin: 'https://www.linkedin.com/in/narayanarongali',
   // Add your GitHub profile URL here and a link appears in the hero and contact sections.
-  github: null,
+  github: 'https://github.com/narayana-rongali',
   // Set to null to hide every resume link.
   resumeUrl: `${import.meta.env.BASE_URL}Narayana_Rongali_Resume.pdf`,
 }
@@ -87,7 +87,7 @@ export const experience = [
 ]
 
 // Set this once the POC repository is on GitHub, and each POC card links to its folder.
-export const POC_REPO = null
+export const POC_REPO = 'https://github.com/narayana-rongali/data-engineering-pocs'
 
 // Every POC below has code and passing tests. `proof` says exactly what has been run.
 export const pocs = [
