@@ -5,7 +5,7 @@ export const profile = {
   name: 'Narayana Rongali',
   role: 'Senior Data Engineer',
   email: 'rongalisssnarayana@gmail.com',
-  linkedin: 'https://www.linkedin.com/in/narayanarongali',
+  linkedin: 'https://www.linkedin.com/in/narayanarongali/',
   // Add your GitHub profile URL here and a link appears in the hero and contact sections.
   github: 'https://github.com/narayana-rongali',
   // Set to null to hide every resume link.
